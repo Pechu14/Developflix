@@ -16,3 +16,11 @@ h2 {
 }
 
 
+.genero {
+  display: flex;
+}
+.genero div {
+  margin-right: 12px;
+}
+
+
